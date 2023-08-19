@@ -27,7 +27,7 @@ const About = () => {
       <p className=" my-4 text-lg md:text-xl">
         I have a passion for working with Html , Css , Javascript and modern
         Javascript libraries and frameworks like React.js and Redux I am also
-        interested in building new Web Technologies and Software.
+        interested in building New Web Technologies and Software.
       </p>
     </div>
   );
