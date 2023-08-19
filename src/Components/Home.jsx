@@ -16,7 +16,7 @@ const Home = () => {
         </h1>
         <p className="text-gray-500 py-4 max-w-md">
           I have 2+ years of experience building and desigining  Web Application.
-          Currently, I love to work on web technologies like React,Redux, Tailwind,
+          Currently, I love to work on web technologies like React, Tailwind,
           and Javascript.
         </p>
         <div>
